@@ -1,3 +1,6 @@
+# Around-Web
+
+Around-Web is a React.js web app for global status sharing. It is built on top of the google maps api and uses ant-design for user interface.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
