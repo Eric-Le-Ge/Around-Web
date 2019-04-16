@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/e83c4f623112a2db4f0c/maintainability)](https://codeclimate.com/github/Eric-Le-Ge/Around-Web/maintainability)
+
 # Around-Web
 
 Around-Web is a React.js web app for global status sharing. It is built on top of the google maps api and uses ant-design for user interface.
